@@ -44,5 +44,9 @@ push  -> 발송
 
 원격 ->  로컬
 
+<<<<<<< HEAD
 pull 
 >>>>>>> c4bea1944095897ef43359ac2e13e617d9e623db
+=======
+pull !
+>>>>>>> b621bb17fda9452ccb3dc15b7b95ea6e2c45cfe9
